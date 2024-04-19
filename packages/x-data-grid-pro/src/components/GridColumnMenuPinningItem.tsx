@@ -87,7 +87,7 @@ function GridColumnMenuPinningItem(props: GridColumnMenuItemProps) {
   return (
     <React.Fragment>
       {pinToLeftMenuItem}
-      {pinToRightMenuItem}
+      //{pinToRightMenuItem}
     </React.Fragment>
   );
 }
